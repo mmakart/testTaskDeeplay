@@ -1,0 +1,5 @@
+average,tall,omnivore
+light,low,carnivore
+heavy,tall,herbivore
+heavy,average,omnivore
+average,average,omnivore
