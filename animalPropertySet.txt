@@ -1,0 +1,3 @@
+weight:light,average,heavy
+height:low,average,tall
+dietType:herbivore,carnivore,omnivore

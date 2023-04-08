@@ -1,0 +1,5 @@
+dietType.herbivore
+dietType.herbivore | dietType.carnivore & height.low
+dietType.omnivore & !height.tall
+!height.low & height.low
+!weight.heavy & dietType.omnivore
